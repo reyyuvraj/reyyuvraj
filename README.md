@@ -1,7 +1,6 @@
 ### 👋 Hi, I'm Yuvraj 
 
 ### 🔭 I’m currently working on Android App Development.
-### 🌱 I’m currently learning Go.
 ### 👯 I’m looking to collaborate on Open Source Android projects.
 ### 💬 Ask me about Kotlin, Java.
 ### 📫 How to reach me: reyyuvraj@gmail.com
